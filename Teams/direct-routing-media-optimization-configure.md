@@ -1,5 +1,5 @@
 ---
-title: Direct Routing Local Media Optimization
+title: Configure Direct Routing Local Media Optimization
 author: CarolynRowe
 ms.author: crowe
 manager: serdars
